@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Sharma</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bharat2913&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bharat2913&label=Profile%20views&color=0e75b6&style=flat" alt="bharat2913" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
