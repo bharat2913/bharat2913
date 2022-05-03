@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bharat2913&label=Profile%20views&color=0e75b6&style=flat" alt="bharat2913" /> </p>
 
+- 😃 Top Rated Freelancer on <a href='https://www.upwork.com/freelancers/~0191ee67fea880bf07' target="_blank">Upwork<a/>
+
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **React, Js**
