@@ -5,9 +5,9 @@
 
 - 😃 Top Rated Freelancer on <a href='https://www.upwork.com/freelancers/~0191ee67fea880bf07' target="_blank">Upwork<a/>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Js**
+- 💬 Ask me about **React, Js, MERN STACK**
 
 - 📫 How to reach me **Discord: Bharat#2087**
 
